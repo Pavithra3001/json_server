@@ -11,7 +11,7 @@
             		"longitude": 85.342982
 			},
 			"temp": "30",
-			"tamper": "true",
+			"tamper": "false",
 			"timestamp": "2016-10-17T13:13:41.386Z"
 		},{
 			"location": {
@@ -19,7 +19,7 @@
             		"longitude": 35.342671
 			},
 			"temp": "40",
-			"tamper": "tam2true",
+			"tamper": "false",
 			"timestamp": "31-03-2016 21:52"
 		},
 		{
@@ -28,7 +28,7 @@
             		"longitude": 75.339581
 			},
 			"temp": "32",
-			"tamper": "tam2true",
+			"tamper": "false",
 			"timestamp": "2018-03-27T10:13:41.386Z"
 		},
 		{
@@ -37,7 +37,7 @@
             		"longitude": 12.739581
 			},
 			"temp": "36",
-			"tamper": "tam2true",
+			"tamper": "false",
 			"timestamp": "2019-01-08T11:58:41.386Z"
 		}]
 	},
@@ -48,7 +48,7 @@
 		"sensordata": [{
 			"location": "Kulas Light",
 			"temp": "Apt. 556",
-			"tamper": "true",
+			"tamper": "false",
 			"timestamp": "92998-3874"
 		}]
 	},
@@ -59,7 +59,7 @@
 		"sensordata": [{
 			"location": "Kulas Light",
 			"temp": "Apt. 556",
-			"tamper": "true",
+			"tamper": "false",
 			"timestamp": "92998-3874"
 		}]
 	}
