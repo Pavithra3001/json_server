@@ -5,34 +5,39 @@
 		"id": 1,
 		"source": "bangalore",
 		"destination": "delhi",
-		"sensordata": {
+		"sensordata": [{
 			"location": "Kulas Light",
 			"temp": "Apt. 556",
 			"tamper": "true",
 			"timestamp": "929983874"
-		}
+		},{
+			"location": "l2Kulas Light",
+			"temp": "t2Apt. 556",
+			"tamper": "tam2true",
+			"timestamp": "56929983874"
+		}]
 	},
 	{
 		"id": 2,
 		"source": "delhi",
 		"destination": "bangalore",
-		"sensordata": {
+		"sensordata": [{
 			"location": "Kulas Light",
 			"temp": "Apt. 556",
 			"tamper": "true",
 			"timestamp": "92998-3874"
-		}
+		}]
 	},
 	{
 		"id": 3,
 		"source": "chennai",
 		"destination": "bangalore",
-		"sensordata": {
+		"sensordata": [{
 			"location": "Kulas Light",
 			"temp": "Apt. 556",
 			"tamper": "true",
 			"timestamp": "92998-3874"
-		}
+		}]
 	}
   ],
   "comments": [
